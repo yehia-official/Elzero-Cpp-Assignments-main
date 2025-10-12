@@ -1,8 +1,5 @@
 # <p align="center">✨ Elzero C++ Assignments ✨</p>
 
-<img src="https://i.ibb.co/RSD9MpM/Screenshot-264.png" width="100%" />
-
----
 
 ## <p align="center">Important Instructions Before Beginning</p>
 
@@ -47,7 +44,7 @@ int main () {
 * [X] Assignment From [30 - 35]
 * [X] Assignment From [36 - 37]
 * [X] Assignment From [38 - 46]
-* [ ] Assignment From [47 - 55]
+* [x] Assignment From [47 - 55]
 
 > Videos Assignments
 
