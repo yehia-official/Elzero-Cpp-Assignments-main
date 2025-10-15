@@ -91,9 +91,3 @@ Contributions are welcome! If you have a suggestion, a fix, or a better solution
 4.  Submit a **pull request**.
 
 Alternatively, if you spot an issue with any of the solutions, please [open an issue](https://github.com/OWNER/REPO/issues) and describe the problem in detail.
-
----
-
-## <p align="center">📜 License</p>
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
